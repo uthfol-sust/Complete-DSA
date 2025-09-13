@@ -7,7 +7,7 @@ At the core of any programming language lies the concept of data types a way for
 Conditional statements are a key part of programming. They let your code make decisions by checking if certain conditions are true or false. Depending on the result, different parts of the code can run, allowing your program to respond dynamically to different situations.
 ## 4. Switch Case Statements
 ## 5. What are arrays, strings?
-### -- Arrays
+## Arrays
 
 An array is a linear data structure used to store and operate on data. You can access any element randomly using its index.
 
@@ -32,7 +32,7 @@ Arrays store related information in adjacent memory blocks.
 - **Removing elements**  
   Reach the index and remove the element. This operation also takes constant time O(1).
 
-### What are Strings?
+## Strings
 
 Strings are like a series of characters stored in a specific order. Each character in a string is assigned an index, starting from 0.  
 This means the first character is at index 0, the second character at index 1, and so on.
@@ -45,4 +45,7 @@ This means the first character is at index 0, the second character at index 1, a
 - **Passing, Returning, and Assigning Strings?**
 
 - **String Comparison?**
-
+### 6. For Loop
+### 7. While Loop
+### 8. Functions (Pass by Reference and Value)
+### 9. Time and Space Complexity
